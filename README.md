@@ -46,14 +46,13 @@ npm run preview
 
 ```text
 Codex_project1/
-├── app.jsx
 ├── index.html
 ├── package.json
 ├── src/
 │   ├── App.jsx
 │   ├── main.jsx
 │   └── styles.css
-└── styles.css
+└── README.md
 ```
 
 ## 仓库地址
